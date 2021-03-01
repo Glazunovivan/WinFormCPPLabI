@@ -1,0 +1,4 @@
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Individ7\Individ\Debug\Individ.vcxprojAssemblyReference.cache
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Individ7\Individ\Debug\Individ.MainForm.resources
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Individ7\Individ\Debug\Individ.vcxproj.GenerateResource.cache
+D:\Учеба\ДЗ\алгоритмизация и программирование\l7\Individ7\Individ\Debug\Individ.DialogWindow.resources
